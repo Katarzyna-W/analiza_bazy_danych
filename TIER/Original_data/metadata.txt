@@ -1,0 +1,6 @@
+The data collected present the amount of alcohol consumed in different countires. 
+The data is presented for each country in the units of standard serving portion of beer, spirit and wine. 
+Those amounts are also presented in total liters of pure alcohol being consumed.
+
+The purspose of these data collection is to find the answer to the question: "In which country is consumed the biggest amount of alcohol?".
+The data are provided by World Health Organization (WHO) and come from a survey conducted in 2010
